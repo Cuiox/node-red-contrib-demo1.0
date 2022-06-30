@@ -1,1 +1,1 @@
-# -node-red-contrib-demo1.0
+# node-red-contrib-demo1.0
